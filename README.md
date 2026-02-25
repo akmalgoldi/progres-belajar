@@ -1,8 +1,8 @@
 # Progres Belajar di Program TEMPA
 
-**25 Februari 2026**<br>  
-Belajar dasar git dan github
-* Telah menyelesaikan modul git dan github
-* Telah menyelesaikan modul dasar git
-* Telah menyelesaikan modul studi kasus pengalaman belajar
+**25 Februari 2026**  
+Belajar dasar Git dan GitHub
 
+- Telah menyelesaikan modul Git dan GitHub  
+- Telah menyelesaikan modul Dasar Git  
+- Telah menyelesaikan modul Studi Kasus Pengalaman Belajar  
