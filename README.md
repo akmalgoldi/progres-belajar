@@ -5,4 +5,9 @@ Belajar dasar Git dan GitHub
 
 - Telah menyelesaikan modul Git dan GitHub  
 - Telah menyelesaikan modul Dasar Git  
-- Telah menyelesaikan modul Studi Kasus Pengalaman Belajar  
+- Telah menyelesaikan modul Studi Kasus Pengalaman Belajar
+
+**26 Februari 2026**  
+Belajar dasar SQL
+
+- Saya akan mempelajari SQL
