@@ -4,4 +4,5 @@
 Belajar dasar git dan github
 * Telah menyelesaikan modul git dan github
 * Telah menyelesaikan modul dasar git
-* Sedang mempelajari modul studi kasus pengalaman belajar 
+* Telah menyelesaikan modul studi kasus pengalaman belajar
+
